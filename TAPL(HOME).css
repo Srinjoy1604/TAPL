@@ -218,7 +218,7 @@
 .h1styles {
     font-family: 'Inter', sans-serif;
     color: white;
-    -webkit-text-stroke: 0.1px rgb(255, 136, 0);
+    -webkit-text-stroke: 1px rgb(255, 136, 0);
     font-family: 'Tektur', cursive;
 }
 
